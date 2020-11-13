@@ -29,7 +29,6 @@ public class Main {
      }
    }while(dividend != 1);
    
-   System.out.println("Factors List: \n ");
-   System.out.println(fl.getList());
+   System.out.println("Result:\n "+fl.buildResult());
   }
 }
