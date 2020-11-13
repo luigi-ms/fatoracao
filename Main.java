@@ -1,34 +1,35 @@
 package com.fatorac;
-import com.fatorac.CountNumbers;
-import com.fatorac.DivisibleNumber;
-import com.fatorac.PrimeFactorsList;
+import com.fatorac.PrimeNumbersList;
+import com.fatorac.FactorsList;
 import java.util.Scanner;
 
 public class Main {
   public static void main(String[] args) {
    Scanner read = new Scanner(System.in);
-   DivisibleNumber divNumber = new DivisibleNumber();
-   PrimeFactorsList primeFactors = new PrimeFactorsList();
-   CountNumbers countNums = new CountNumbers(primeFactors);
+   PrimeNumbersList pnl = new PrimeNumbersList();
+   FactorsList fl = new FactorsList();
    
-   Integer dividend = read.nextInt();
-   Integer divider = new Integer(0);
+   System.out.println("Type a number: ");
+   int dividend = read.nextInt();
+   
+   Integer divisor = 0;
    
    read.close();
    
    do{
-     if(divNumber.thereIsDivisible(dividend)){
-       divNumber.set(dividend); 
-       divider = divNumber.get();
+     if(pnl.thereAnyDivisible(dividend)){
+       pnl.setDivisible(dividend);
+       divisor = pnl.getDivisible();
        
-       dividend /= divider;
+       dividend /= divisor;
        
-       primeFactors.add(divider);
-     } else {
+       fl.add(divisor);
+     }else{
        break;
      }
-   }while(dividend >= 1);
+   }while(dividend != 1);
    
-   System.out.println(countNums.showResult());
+   System.out.println("Factors List: \n ");
+   System.out.println(fl.getList());
   }
 }
