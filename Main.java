@@ -14,12 +14,16 @@ public class Main {
    
    Integer divisor = 0;
    
+   System.out.println("\n");
+   
    read.close();
    
    do{
      if(pnl.thereAnyDivisible(dividend)){
        pnl.setDivisible(dividend);
        divisor = pnl.getDivisible();
+       
+       System.out.println(dividend+" | "+divisor);
        
        dividend /= divisor;
        
@@ -29,6 +33,6 @@ public class Main {
      }
    }while(dividend != 1);
    
-   System.out.println("Result:\n "+fl.buildResult());
+   System.out.println("\nResult:\n "+fl.buildResult());
   }
 }

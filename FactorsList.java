@@ -22,11 +22,11 @@ public class FactorsList {
         }
       }else{
         for(Integer factor : this.factorsSet){
-          this.stringForm += countAndMount(factor)+" + "; 
+          this.stringForm += countAndMount(factor)+" * "; 
         }
       }
       
-      return this.stringForm;
+      return (this.stringForm.endsWith(" * ")) ? this.stringForm.substring(0, (this.stringForm.length() - 3)) : this.stringForm;
     }
     
     public String countAndMount(Integer number){
