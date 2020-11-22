@@ -4,7 +4,7 @@ Fatorar um número
 ![Language](https://img.shields.io/static/v1?label=Language&message=Java7&color=important?style=plastic)
 
 ## Summary
-- [O que é Fatoração](#What is)
+- [O que é Fatoração](#'What is')
 	- [Exemplo](#Example)
 - [Como o codigo funciona](#How it works)
 - [Pré-requisitos](#Pre-requisites)
