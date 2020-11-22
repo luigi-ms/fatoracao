@@ -41,8 +41,8 @@ Segue o algoritmo explicado:
 
 ## Autor <a name="Author"></a>
 
-<img src="https://avatars.githubusercontent.com/luigimoraes.png" alt="author-photo" />
+<img src="./assets/author.jpg" alt="author-photo" />
 Luigi Moraes
 
-<img src="https://simpleicons.org/icons/github.svg" alt="github-icon" /> [Github](https://github.com/luigimoraes)
-<img src="./assets/linkedin.svg" width="15" alt="linkedin-icon" /> [LinkedIn](https://www.linkedin.com/in/santos-luigi-moraes)
+<img src="https://simpleicons.org/icons/github.svg" width="15" alt="github-icon" /> [Github](https://github.com/luigimoraes)
+<img src="https://simpleicons.org/icons/linkedin.svg" width="15" alt="linkedin-icon" /> [LinkedIn](https://www.linkedin.com/in/santos-luigi-moraes)
