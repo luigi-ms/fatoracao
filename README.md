@@ -4,12 +4,12 @@ Fatorar um número
 ![Language](https://img.shields.io/static/v1?label=Language&message=Java7&color=important?style=plastic)
 
 ## Summary
-- [O que é Fatoração](#'What is')
+- [O que é Fatoração]("#What Is")
 	- [Exemplo](#Example)
 - [Como o codigo funciona](#How it works)
 - [Pré-requisitos](#Pre-requisites)
 
-## What is
+## What Is
 Fatoração é o processo de decompor um número em fatores primos.
 Essa decomposição é feita através de divisões por divisores primos. O quociente da divisão anterior se torna o dividendo da divisão atual, e isso se repete até o quociente ser 1.
 Após isso, conta-se os divisores primos encontrados. O resultado é um produto/uma potência do valor digitado.
