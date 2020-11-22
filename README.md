@@ -1,13 +1,13 @@
 # Fatoracao
 Fatorar um número
 
-![Language](https://img.shields.io/static/v1?label=Language&message=Java7&color=important?style=plastic)
+<p style="align: center">![Language](https://img.shields.io/static/v1?label=Language&message=Java%207&color=important?style=plastic)<p>
 
 ## Summary
 - [O que é Fatoração](#What)
 	- [Exemplo](#Example)
 - [Como o codigo funciona](#How)
-<1-- [Pré-requisitos](#Pre-requisites) -->
+<!-- [Pré-requisitos](#Pre-requisites) -->
 
 ## What is <a name="What"></a>
 Fatoração é o processo de decompor um número em fatores primos.
