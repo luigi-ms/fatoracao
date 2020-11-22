@@ -1,7 +1,7 @@
 # Fatoracao
 Fatorar um número
 
-<img align="center" src="https://img.shields.io/static/v1?label=Language&message=Java%207&color=important?style=plastic" />>
+<img align="center" src="https://img.shields.io/static/v1?label=Language&message=Java%207&color=important?style=plastic" />
 
 ## Sumário
 - [O que é fatoração?](#What)
@@ -36,7 +36,7 @@ Segue o algoritmo explicado:
 
 ## Tecnologias envolvidas <a name="Tecnologies"></a>
 
-1. IDE [Java N-IDE]
+1. IDE [Java N-IDE](https://play.google.com/store/apps/details?id=com.duy.compiler.javanide)
 2. Git
 
 ## Autor <a name="Author"></a>
@@ -44,5 +44,5 @@ Segue o algoritmo explicado:
 <img src="https://avatars.githubusercontent.com/luigimoraes.png" alt="author-photo" />
 Luigi Moraes
 
-<img src="./assets/github.png" alt="github-icon" /> [Github](https://github.com/luigimoraes)
+<img src="https://simpleicons.org/icons/github.svg" alt="github-icon" /> [Github](https://github.com/luigimoraes)
 <img src="./assets/linkedin.svg" width="15" alt="linkedin-icon" /> [LinkedIn](https://www.linkedin.com/in/santos-luigi-moraes)
