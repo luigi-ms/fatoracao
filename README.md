@@ -41,7 +41,7 @@ Segue o algoritmo explicado:
 
 ## Autor <a name="Author"></a>
 
-<img src="./assets/author.jpg" alt="author-photo" />
+<img src="./assets/author.jpg" width="150" alt="author-photo" />
 Luigi Moraes
 
 <img src="https://simpleicons.org/icons/github.svg" width="15" alt="github-icon" /> [Github](https://github.com/luigimoraes)
