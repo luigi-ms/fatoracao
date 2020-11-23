@@ -1,7 +1,7 @@
 # Fatoracao
 Fatorar um número
 
-<img align="center" src="https://img.shields.io/static/v1?label=Language&message=Java%207&color=important?style=plastic" />
+<img align="center" src="https://img.shields.io/static/v1?label=Java%20SE&message=7&color=blue&style=plastic" />
 
 ## Sumário
 - [O que é fatoração?](#What)
